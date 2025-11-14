@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 <img width="7%" title="Jira" src="Jira.svg">
 <img width="7%" title="Telegram" src="Telegram.svg">
 </p>
+
+### Мои контакты:
+
++  Email - ilya.surkov11@gmail.com
++  Telegram - https://t.me/L_Surkov
