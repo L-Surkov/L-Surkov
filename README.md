@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <img width="7%" title="Selenide" src="Selenide.svg">
 <img width="7%" title="Selenoid" src="Selenoid.svg"> 
 <img width="7%" title="Jenkins" src="Jenkins.svg">
-<img width="7%" title="Allure Report" src="Allure_Report.svg">
-<img width="7%" title="Allure Test Ops" src="AllureTestOps.svg">
-<img width="7%" title="GitHub" src="GitHub.svg">
+<img width="7%" title="Allure Report" src="Allure.svg">
+<img width="7%" title="Allure Test Ops" src="Allure2.svg">
+<img width="7%" title="GitHub" src="Github.svg">
 <img width="7%" title="Jira" src="Jira.svg">
 <img width="7%" title="Telegram" src="Telegram.svg">
 </p>
