@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 <img width="7%" title="Telegram" src="Telegram.svg">
 </p>
 
+## Проекты
+
+- [MKB Invest Web](https://github.com/L-Surkov/MKB_Web_Tests) - автоматизированные тесты для сайта МКБ Инвестиции
+
 ### Мои контакты:
 
 +  Email - ilya.surkov11@gmail.com
