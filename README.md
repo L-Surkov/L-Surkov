@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->I’m QA Lead in FinTech
+-->I’m QA Engineer in FinTech
 
 ## Технологический стек
  <p align="center">
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 - [MKB Invest Web](https://github.com/L-Surkov/MKB_Web_Tests) - автоматизированные тесты для сайта МКБ Инвестиции
 - [API Tests](https://github.com/L-Surkov/API_Tests) - автоматизированные тесты на примере сервиса ReqRes
+- [Mobile App Tests](https://github.com/L-Surkov/Wiki_Mobile_Tests) - автоматизированные тесты на приложение Wikipedia
 
 ### Мои контакты:
 
